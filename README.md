@@ -1,5 +1,5 @@
 
- <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+Sumit+Ganesh+Ade;Full-Stack+Developer;AI%2FML+Enthusiast;Web+%26+App+Developer;Data+Analytics+%26+Problem+Solving" alt="Typing Animation" />
 
